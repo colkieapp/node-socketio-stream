@@ -1,5 +1,5 @@
 {
-  "name": "@sap_oss/node-socketio-stream",
+  "name": "node-socketio-stream",
   "version": "1.0.3",
   "description": "stream module for Socket.IO",
   "author": "Naoyuki Kanezawa <naoyuki.kanezawa@gmail.com>",
@@ -23,7 +23,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SAP/node-socketio-stream.git"
+    "url": "git+https://github.com/colkieapp/node-socketio-stream.git"
   },
   "scripts": {
     "prepublish": "make build",
